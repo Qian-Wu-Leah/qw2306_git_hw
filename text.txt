@@ -1,1 +1,2 @@
-This is a desciption for the Rick and Morty txt file
+This is a desciption for the Rick and Morty txt file.
+Rick and Morty is an American adult animated science fiction sitcom.
